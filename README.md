@@ -1,0 +1,2 @@
+# Influencer_Forecasting_in_Social_Networks
+The aim of this project is to predict the influencers in a social network. Here, we can predict the influence rate for an individual person or comparative study of influence rate between the multiple users by using different learning models and auxiliary techniques.In our project , the goal is to predict the influencers in specific social forum such as Twitter.
